@@ -2,19 +2,10 @@
 
 [MaxMind's GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/) Country, City, and ASN databases
 
-## Download
-
-### URL1
-
-- [GeoLite2-ASN.mmdb](https://git.io/GeoLite2-ASN.mmdb)
-- [GeoLite2-City.mmdb](https://git.io/GeoLite2-City.mmdb)
-- [GeoLite2-Country.mmdb](https://git.io/GeoLite2-Country.mmdb)
-
-### URL2
-
-- [GeoLite2-ASN.mmdb](https://github.com/db-root/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb)
-- [GeoLite2-City.mmdb](https://github.com/db-root/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb)
-- [GeoLite2-Country.mmdb](https://github.com/db-root/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb)
+## 下载
+- [GeoLite2-ASN.mmdb](https://raw.githubusercontent.com/db-root/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb)
+- [GeoLite2-City.mmdb](https://raw.githubusercontent.com/db-root/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb)
+- [GeoLite2-Country.mmdb](https://raw.githubusercontent.com/db-root/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb)
 
 ## License
 
